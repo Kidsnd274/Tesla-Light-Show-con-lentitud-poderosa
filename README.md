@@ -1,8 +1,8 @@
 # Tesla Light Show: ...con lentitud poderosa
 
-Watch the Light Show on [YouTube](https://www.youtube.com/watch?v=PQj05XeC_TQ)
+Watch the Light Show on [YouTube](https://youtu.be/kJtpEYdlVNI)
 
-[![image](https://user-images.githubusercontent.com/1343896/167484875-c6e352f2-d0df-456c-8c08-f7ea008402f9.png)](https://www.youtube.com/watch?v=PQj05XeC_TQ)
+[![image](https://user-images.githubusercontent.com/1343896/167484875-c6e352f2-d0df-456c-8c08-f7ea008402f9.png)](https://youtu.be/kJtpEYdlVNI)
 
 ## Downloads:
 Download the .zip from [Releases](https://github.com/Kidsnd274/Tesla-Light-Show-con-lentitud-poderosa/releases).
